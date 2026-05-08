@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ' Practica 2 Sistema Cardiovascular '
+message: 'Modelado de sistemas fisiologicos / Ingenieria Biomedica '
+type: software
+authors:
+  - given-names: Pamela
+    family-names: escobedo sandoval
+    email: l20211965@tectijuana.edu.mx
+    affiliation: Instituto tecnologico de tijuana
+identifiers:
+  - type: url
+    value: 'https://github.com/l20211965-creator/MSFPractica2'
+    description: Repositorio Git Hub
+repository-code: 'https://github.com/l20211965-creator/MSFPractica2'
+url: 'https://github.com/l20211965-creator/MSFPractica2'
+keywords:
+  - Hipotenso
+  - Hipertenso
+  - control
+  - sistema
+  - 'controlador '
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-26'
